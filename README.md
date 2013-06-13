@@ -1,4 +1,2 @@
-libmget
-=======
-
-httpget
+跨平台开源多线程http下载库
+依赖于boost1.53以上
